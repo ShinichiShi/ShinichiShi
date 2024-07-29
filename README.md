@@ -23,7 +23,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=ShinichiShi&theme=neon-palenight&hide_border=true&card_width=705">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=ShinichiShi&theme=black-ice&hide_border=true&card_width=705">
      </td>
    </tr>
   <tr>
@@ -31,9 +31,10 @@
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShinichiShi&theme=2077">
      </td>
    </tr>
-</table><table>
+</table>
+<table>
   <tr>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShinichiShi&theme=aura_dark"></td>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShinichiShi&theme=aura_dark"></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShinichiShi&theme=transparent"></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShinichiShi&theme=transparent"></td>
   </tr>
 </table>
