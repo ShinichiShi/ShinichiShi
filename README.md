@@ -40,3 +40,5 @@
 
 ### 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=ShinichiShi&theme=juicyfresh&no-bg=true" />
+
+[![Holopin](https://holopin.me/ShinichiShi)](https://holopin.io/@ShinichiShi)
