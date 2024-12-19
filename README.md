@@ -5,7 +5,6 @@
 # 💫 About Me: ![](https://komarev.com/ghpvc/?username=ShinichiShi&label=Profile+views&style=for-the-badge&color=green)
 - 🌱 I’m currently learning Golang and DevOps.
 - 💡 I’m looking to contribute to any open-source projects.
-- ⚡ BTS: I am a weeb ;)
 
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/shinichi_shi/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/supreeth-c-shinichi/) 
