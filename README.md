@@ -10,15 +10,15 @@
 
 ### ⚒️ Tech Stack:
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=c" />
-    <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="54" height="54" />
-    <img src="https://skillicons.dev/icons?i=ts" />
     <img src="https://skillicons.dev/icons?i=js" />
     <img src="https://skillicons.dev/icons?i=solidity" />
     <img src="https://skillicons.dev/icons?i=python" />
     <img src="https://skillicons.dev/icons?i=tailwind" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs logo"  />
     <img src="https://skillicons.dev/icons?i=nodejs" />
+    <img src="https://skillicons.dev/icons?i=c" />
+    <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="54" height="54" />
+    <img src="https://skillicons.dev/icons?i=ts" />
     <img src="https://skillicons.dev/icons?i=express" />
     <img src="https://skillicons.dev/icons?i=firebase" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="50" alt="go logo"  />
@@ -29,9 +29,7 @@
     <img src="https://skillicons.dev/icons?i=git" />
     <img src="https://skillicons.dev/icons?i=githubactions" />
     <img src="https://skillicons.dev/icons?i=github" />
-    <img src="https://skillicons.dev/icons?i=git,githubactions,github" />
     <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="54" height="54" />
-    <img src="https://skillicons.dev/icons?i=ubuntu" />
  </p>
  
 # 📊 Stats :
