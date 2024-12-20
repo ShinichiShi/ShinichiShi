@@ -2,28 +2,36 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="100%">
 </div>
 
-# 💫 About Me: ![](https://komarev.com/ghpvc/?username=ShinichiShi&label=Profile+views&style=for-the-badge&color=green)
-- 🌱 I’m currently learning Golang and DevOps.
-- 💡 I’m looking to contribute to any open-source projects.
+# 💫 About Me: ![](https://komarev.com/ghpvc/?username=ShinichiShi&label=Profile+views&style=flat&color=blueviolet)
+- 🌱 *Full-Stack* dev and *DevOps* enthusiast
+- 🌱 Currently learning *Golang* for Microservices
+- 💡 Actively interested to contribute to open source projects.
+- 🎵 Love remixing tunes and speedrunning life. 🎧
 
-### 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/shinichi_shi/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/supreeth-c-shinichi/) 
+### 🌐 Connect:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/shinichi_shi/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/supreeth-c-shinichi/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:supreeth2020@gmail.com)
 
 ### ⚒️ Tech Stack:
- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E) ![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black) ![GoLang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) ![NextJS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![MongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![C++ Programming](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-
-# 📊 GitHub Stats:
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=c" />
+    <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="54" height="54" />
+    <img src="https://skillicons.dev/icons?i=ts,js,go,solidity,python,tailwind,nodejs,express,firebase" />
+    <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="54" height="54" />
+</p>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=nextjs,vite" />
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="54" height="54" />
+    <img src="https://skillicons.dev/icons?i=git,githubactions,github" />
+    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="54" height="54" />
+    <img src="https://skillicons.dev/icons?i=ubuntu,windows" />
+ </p>
+ 
+# 📊 Stats :
+[![Badge](https://cp-logo.vercel.app/codechef/shinichishi)](https://www.codechef.com/users/shinichishi) [![Codeforces](https://badges.riever.dev/codeforces/Shinichi_shi.svg)](https://codeforces.com/profile/jo_on)
 <table>
   <tr>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com?user=ShinichiShi&theme=black-ice&hide_border=true&card_width=705">
-     </td>
-   </tr>
-  <tr>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShinichiShi&theme=2077">
      </td>
    </tr>
 </table>
