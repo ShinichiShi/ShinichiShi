@@ -2,7 +2,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="100%">
 </div>-->
 
-# 👋 Hey there: ![](https://komarev.com/ghpvc/?username=ShinichiShi&label=Profile+views&style=flat&color=blueviolet)
+## 👋 Hey there: ![](https://komarev.com/ghpvc/?username=ShinichiShi&label=Profile+views&style=flat&color=blueviolet)
 - 🌱 I'm a *Full-Stack* dev and *DevOps* enthusiast
 - 🌱 Currently learning *Golang* for Microservices
 - 💡 Actively interested to contribute to open source projects.
@@ -28,7 +28,9 @@
     <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="54" height="54" />
  </p>
  
-# 📊 Stats :
+ ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
+
+### 📊 Stats :
 [![Badge](https://cp-logo.vercel.app/codechef/shinichishi)](https://www.codechef.com/users/shinichishi) [![Codeforces](https://badges.riever.dev/codeforces/Shinichi_shi.svg)](https://codeforces.com/profile/jo_on)
 <table align="center">
   <tr>
@@ -48,6 +50,8 @@
     </td>
   </tr>
 </table>
+
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
 [![Holopin](https://holopin.me/ShinichiShi)](https://holopin.io/@ShinichiShi)
 
