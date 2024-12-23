@@ -31,7 +31,7 @@
  ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
 ### 📊 Stats :
-[![Badge](https://cp-logo.vercel.app/codechef/shinichishi)](https://www.codechef.com/users/shinichishi) [![Codeforces](https://badges.riever.dev/codeforces/Shinichi_shi.svg)](https://codeforces.com/profile/jo_on)
+[![Badge](https://cp-logo.vercel.app/codechef/shinichishi)](https://www.codechef.com/users/shinichishi) [![Codeforces](https://badges.riever.dev/codeforces/Shinichi_shi.svg)](https://codeforces.com/profile/Shinichi_shi)
 <table align="center">
   <tr>
     <td>
