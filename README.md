@@ -4,9 +4,9 @@
 
 ## 👋 Hey there: ![](https://komarev.com/ghpvc/?username=ShinichiShi&label=Profile+views&style=flat&color=blueviolet)
 - 🌱 I'm a *Full-Stack* dev and *DevOps* enthusiast
-- 🌱 Currently learning *Golang* for Microservices
+- 🌱 Currently learning *Golang* for Microservices And Ruby on Rails
 - 💡 Actively interested to contribute to open source projects.
-- 🎵 Love remixing tunes and speedrunning life. 🎧
+- 🏆 Winner of Smart India Hackathon 2025
 
 ### ⚒️ Tech Stack:
 <p align="center">
@@ -42,6 +42,15 @@
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShinichiShi&theme=transparent">
     </td>
   </tr>
+</table>
+<table>
+<tr>
+    <td colspan="2"> 
+      <a href="https://github.com/ShinichiShi">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShinichiShi&theme=high-contrast&custom_title=Contribution%20graph%20&alt=Activity%20Graph&line=3AD354" alt="Activity Graph" />
+      </a>
+</td>
+</tr>
 </table>
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
