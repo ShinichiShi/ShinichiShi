@@ -44,13 +44,13 @@
   </tr>
 </table>
 <table>
-<tr>
+<!-- <tr>
     <td colspan="2"> 
       <a href="https://github.com/ShinichiShi">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShinichiShi&theme=high-contrast&custom_title=Contribution%20graph%20&alt=Activity%20Graph&line=3AD354" alt="Activity Graph" />
       </a>
 </td>
-</tr>
+</tr> -->
 </table>
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
