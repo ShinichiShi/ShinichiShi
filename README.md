@@ -7,7 +7,7 @@
 - 🌱 Currently learning *Golang* for Microservices And Ruby on Rails
 - 💡 Actively interested to contribute to open source projects.
 - 🏆 Winner of Smart India Hackathon 2025
-- 🏆 Google Summer of Code Mentee [@Ciruitverse](https://circuitverse.org/)
+- 🏆 Google Summer of Code 2026 Mentee [@Ciruitverse](https://circuitverse.org/)
 
 ### ⚒️ Tech Stack:
 <p align="center">
