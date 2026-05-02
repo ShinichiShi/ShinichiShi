@@ -10,24 +10,32 @@
 - 🏆 Google Summer of Code 2026 Mentee [@Ciruitverse](https://circuitverse.org/)
 
 ### ⚒️ Tech Stack:
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=js" />
-    <img src="https://skillicons.dev/icons?i=solidity" />
-    <img src="https://skillicons.dev/icons?i=tailwind" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs logo"  />
-    <img src="https://skillicons.dev/icons?i=nodejs" />
-    <img src="https://skillicons.dev/icons?i=c" />
-    <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="54" height="54" />
-    <img src="https://skillicons.dev/icons?i=ts" />
-    <img src="https://skillicons.dev/icons?i=express" />
-    <img src="https://skillicons.dev/icons?i=firebase" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="50" alt="go logo"  />
-    <img src="https://skillicons.dev/icons?i=vite" />
-    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="54" height="54" />
-    <img src="https://skillicons.dev/icons?i=git" />
-    <img src="https://skillicons.dev/icons?i=githubactions" />
-    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="54" height="54" />
- </p>
+<p align="center" style="
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 12px;
+  max-width: 700px;
+  margin: auto;
+">
+  <img src="https://skillicons.dev/icons?i=js" height="50"/>
+  <img src="https://skillicons.dev/icons?i=solidity" height="50"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50"/>
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50"/>
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" height="50"/>
+  <img src="https://skillicons.dev/icons?i=c" height="50"/>
+  <img src="https://skillicons.dev/icons?i=ts" height="50"/>
+  <img src="https://skillicons.dev/icons?i=express" height="50"/>
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" height="50"/>
+  <img src="https://skillicons.dev/icons?i=firebase" height="50"/>
+  <img src="https://skillicons.dev/icons?i=vite" height="50"/>
+  <img src="https://skillicons.dev/icons?i=git" height="50"/>
+  <img src="https://skillicons.dev/icons?i=githubactions" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="50"/>
+
+</p>
  
  ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
